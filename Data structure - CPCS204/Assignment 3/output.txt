@@ -1,0 +1,331 @@
+---------Welcome to Uber Booking System---------
+
+Command Add_Captain: Add a new captain record in the system
+
+
+		ID: 501
+		NAME: Rida Ahmad Zahrani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command Add_Captain: Add a new captain record in the system
+
+
+		ID: 502
+		NAME: Zahid Ali
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command Add_Captain: Add a new captain record in the system
+
+
+		ID: 503
+		NAME: Shahid Aman
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command Add_Captain: Add a new captain record in the system
+
+
+		ID: 504
+		NAME: John Zukie
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command Add_Captain: Add a new captain record in the system
+
+
+		ID: 505
+		NAME: Yasser Ali
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command Add_Captain: Add a new captain record in the system
+
+
+		ID: 506
+		NAME: Ahmed Qahtani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command Add_Captain: Add a new captain record in the system
+
+
+		ID: 507
+		NAME: Zahoor Rashid
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command Add_Captain: Add a new captain record in the system
+
+
+		ID: 508
+		NAME: Amna Ayman
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command Add_Captain: Add a new captain record in the system
+
+
+		ID: 509
+		NAME: Nassr Alqahtani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command Add_Captain: Add a new captain record in the system
+
+
+		ID: 510
+		NAME: Maryam Alzahrani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command BOOK_RIDE: Book a new Ride with captain 501
+
+--------------------------------------------------------
+
+Command BOOK_RIDE: Book a new Ride with captain 502
+
+--------------------------------------------------------
+
+Command BOOK_RIDE: Book a new Ride with captain 503
+
+--------------------------------------------------------
+
+Command BOOK_RIDE: Couldn’t find any captain with ID number 514
+
+--------------------------------------------------------
+
+Command BOOK_RIDE: The captain Shahid Aman is not available. He is on another ride!
+
+--------------------------------------------------------
+
+Command DISPLAY_CAPTAIN_INFO: 
+		ID: 509
+		NAME: Nassr Alqahtani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command DISPLAY_CAPTAIN_INFO: Couldn’t find any captain with ID number 520
+
+--------------------------------------------------------
+
+Command DISPLAY_CAPTAIN_INFO: 
+		ID: 502
+		NAME: Zahid Ali
+		Available: false
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command FINISH_RIDE: FInish ride with captain 501
+
+		ID: 501
+		NAME: Rida Ahmad Zahrani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+Command FINISH_RIDE: FInish ride with captain 502
+
+		ID: 502
+		NAME: Zahid Ali
+		Available: true
+		Rating Star: 1
+
+--------------------------------------------------------
+
+Command FINISH_RIDE: The captain Zahoor Rashid is not in a ride!
+
+--------------------------------------------------------
+
+Command FINISH_RIDE: Couldn’t find any captain with ID number 511
+
+--------------------------------------------------------
+
+Command DELETE_CAPTAIN: the captain John Zukie left uber
+
+--------------------------------------------------------
+
+Command DELETE_CAPTAIN: Couldn’t find any captain with ID number 514
+
+--------------------------------------------------------
+
+Command DISPLAY_ALL_CAPTAINS:
+
+		ID: 501
+		NAME: Rida Ahmad Zahrani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 502
+		NAME: Zahid Ali
+		Available: true
+		Rating Star: 1
+
+--------------------------------------------------------
+
+
+		ID: 503
+		NAME: Shahid Aman
+		Available: false
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 505
+		NAME: Yasser Ali
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 506
+		NAME: Ahmed Qahtani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 507
+		NAME: Zahoor Rashid
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 508
+		NAME: Amna Ayman
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 509
+		NAME: Nassr Alqahtani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 510
+		NAME: Maryam Alzahrani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+
+--------------------------------------------------------
+
+Command DISPLAY_ALL_CAPTAINS:
+
+		ID: 501
+		NAME: Rida Ahmad Zahrani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 502
+		NAME: Zahid Ali
+		Available: true
+		Rating Star: 1
+
+--------------------------------------------------------
+
+
+		ID: 503
+		NAME: Shahid Aman
+		Available: false
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 505
+		NAME: Yasser Ali
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 506
+		NAME: Ahmed Qahtani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 507
+		NAME: Zahoor Rashid
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 508
+		NAME: Amna Ayman
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 509
+		NAME: Nassr Alqahtani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+		ID: 510
+		NAME: Maryam Alzahrani
+		Available: true
+		Rating Star: 0
+
+--------------------------------------------------------
+
+
+
+--------------------------------------------------------
+
+Thank you for using Uber System, Good Bye!
