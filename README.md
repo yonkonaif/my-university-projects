@@ -1,2 +1,1 @@
-# Data-structure-asignment-1
-this is my university project.
+programming projects that I did in my university
